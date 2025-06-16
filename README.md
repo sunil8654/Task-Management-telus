@@ -5,15 +5,15 @@ Task Management Application built with React. Users can add, delete, complete, f
 **Task Management Application**
 A responsive and user-friendly Task Management application built entirely with React. It allows users to add, delete, complete, filter, sort, and search tasks. All task data is saved locally using localStorage for persistence even after page refresh.
 
-## 📸 Screenshots
+##  Screenshots
 
-### 💻 Desktop View
+### Desktop View
 
-![Desktop View](https://raw.githubusercontent.com/sunil8654/Task-Management-telus/main/public/Desktop-view.png)
+[Desktop View] (https://raw.githubusercontent.com/sunil8654/Task-Management-telus/main/public/Desktop-view.png)
 
-### 📱 Mobile View
+###  Mobile View
 
-![Mobile View](https://raw.githubusercontent.com/sunil8654/Task-Management-telus/main/public/Mobile-view.png)
+[Mobile View] (https://raw.githubusercontent.com/sunil8654/Task-Management-telus/main/public/Mobile-view.png)
 
 
 

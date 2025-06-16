@@ -51,21 +51,21 @@ After deploy change name of your site name
 
 Folder Structure
 
-task_management/
-├── public/
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   ├── AddTaskForm.js
-│   │   ├── FilterButtons.js
-│   │   ├── TaskItem.js
-│   │   └── TaskList.js
-│   ├── App.css     ( Global css for all)
-│   ├── App.js ( main application file)
-│   ├── index.js
-├── package.json
-├── README.md
-└── build/ (after production build)
+- task_management/
+  - public/
+    - favicon.ico
+  - src/
+    - components/
+      - AddTaskForm.js (Form to add new tasks)
+      - FilterButtons.js (Buttons for filtering and sorting)
+      - TaskItem.js (Individual task item)
+      - TaskList.js (List of all tasks)
+    - App.css (Global CSS)
+    - App.js (Main app logic)
+    - index.js (App entry point)
+  - package.json (Dependencies)
+  - README.md (Documentation)
+  - build/ (Production build output)
 
 
 **Challenges faced and solutions implemented**:

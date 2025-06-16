@@ -9,11 +9,12 @@ A responsive and user-friendly Task Management application built entirely with R
 
 ### 💻 Desktop View
 
-![Desktop View](https://raw.githubusercontent.com/your-username/task_management/main/public/Desktop-view.png)
+![Desktop View](https://raw.githubusercontent.com/sunil8654/Task-Management-telus/main/public/Desktop-view.png)
 
 ### 📱 Mobile View
 
-![Mobile View](https://raw.githubusercontent.com/your-username/task_management/main/public/Mobile-view.png)
+![Mobile View](https://raw.githubusercontent.com/sunil8654/Task-Management-telus/main/public/Mobile-view.png)
+
 
 
 **Deployed on Netlify**

@@ -1,5 +1,5 @@
 # Task Management 
-Task Management Application built with React. Users can add, delete, complete, filter, search, and sort tasks with localStorage support and a responsive dark/light mode UI.
+Task Management Application built with React. Users can add, delete, complete, filter, search, and sort tasks with localStorage support and a responsive UI.
 
 
 **Task Management Application**
@@ -29,7 +29,6 @@ Auto generated serial numbers for tasks (New task on above and Sr no. in descend
 Manage and sort tasks by due date (newest first Default )
 Search tasks by title
 Filter tasks by status: All, Active, Completed
-Dark and Light Mode toggle(Added in code App.js using UseEffect)
 Fully responsive for all screen sizes
 Added task data with localStorage
 Clean and modern UI with Simple color  and subtle animations.
